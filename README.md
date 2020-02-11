@@ -39,3 +39,7 @@ the porject contains a `splash.png` and `icon.png` for example
  `react-native-safe-area-context`
  `react-native-screens`
  `react-native-web`
+ 
+ 
+ ## demo
+![Demo](demo/demoGif.gif)
